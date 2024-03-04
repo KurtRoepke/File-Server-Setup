@@ -3,7 +3,7 @@
  
 
 <h2>Description</h2>
-In this projectwe go over setting  up a file server to share files. we also set up permissons with group policy so certain department dont have access to documents they shouldnt see.
+In this projectwe go over setting  up a file server to share files. we also set up permissons with group policy so certain department dont have access to documents they shouldnt see.<!-- Server manager, set permissios, make gpo's, <!--Server manager, gpo for permissions, gpo for map drives -->-->
 <br />
 
 
@@ -21,32 +21,53 @@ In this projectwe go over setting  up a file server to share files. we also set 
 
 <h2>Program walk-through:</h2>
 
+<!--go to server manager, tools, group policy management, .
+<img src=images/.png" height="80%" width="80%"/>-->
+
+<!--go to forest, domains right click the ou you want to add a new link gpo to and select create new gpo .
+<img src=images/.png" height="80%" width="80%"/>-->
+
+<!--go to the folder or drive you want to share right click and choose properties .
+<img src=images/.png" height="80%" width="80%"/>-->
+
+<!--.
+<img src=images/.png" height="80%" width="80%"/>-->
+<!-- 
+    Active Directory setup
+Company location
+        group for map drive
+                    test ou
+                       group
+                    test ou
+                       group       -->
+
+
 Start by going to the server manager and selecting add roles and features.
-<img src="images/createDC.png" height="80%" width="80%"/>
+<img src="images/.png" height="80%" width="80%"/>
 
 Next select file and storage services ,file and iscsi ,resorce manager and install.
-<img src="images/addNic.png" height="80%" width="80%"/>
+<img src="images/.png" height="80%" width="80%"/>
 
 After the computer has restarted .
-<img src="images/dmchange.png" height="80%" width="80%" />
+<img src="images/.png" height="80%" width="80%" />
 
 .
-<img src="images/nic.png" height="80%" width="80%" />
+<img src="images/.png" height="80%" width="80%" />
 
 .
-<img src="images/addroles.png" height="80%" width="80%" />
+<img src="images/.png" height="80%" width="80%" />
  
  .
-<img src="images/selectserver.png" height="80%" width="80%" />
+<img src="images/.png" height="80%" width="80%" />
   
  .
-<img src="images/dhcp.png" height="80%" width="80%" />
+<img src="images/.png" height="80%" width="80%" />
 
  . 
-<img src="images/trianglead.png" height="80%" width="80%" or trianglead />
+<img src="images/.png" height="80%" width="80%" or trianglead />
   
  .
-<img src="images/Newou.png" height="80%" width="80%" />
+<img src="images/.png" height="80%" width="80%" />
   
  .
 <img src="images/1.png" height="80%" width="80%" />
