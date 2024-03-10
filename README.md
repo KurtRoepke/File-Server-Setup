@@ -36,7 +36,7 @@ To make a new group right click the OU select new and choose group.
 
 
 
- Give the group a name and click ok.
+   Give the group a name and click ok.
 <img src="Images/4.png" height="70%" width="70%" />
 
 
@@ -86,7 +86,7 @@ Choose smb quick and choose the drive or folder you want to share.
 
 
 
-This is the path to the network share.
+  This is the path to the network share.
 <img src="Images/14.png"  height="70%" width="70%"  />
 
 
