@@ -1,7 +1,5 @@
 <h1>File server setup</h1>
-<style>
-  
-</style>
+
  
 
 <h2>Description</h2>
