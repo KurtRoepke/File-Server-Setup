@@ -66,6 +66,7 @@ Next go back to the server manager choose add roles and features file and storag
 
 
 Choose file and iSCSI services and choose file server and server resource manager click next and install.
+
 <img src="Images/10.png" height="70%" width="70%"  />
 
 
