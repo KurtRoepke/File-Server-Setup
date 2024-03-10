@@ -3,7 +3,7 @@
  
 
 <h2>Description</h2>
-<b>In this repository we go over how to make groups in Active Directory and, how to apply them to file permissions. Next we go over how to install the file server software in Server Manager and finally how to set up a network share.</b>
+<b>In this repository we go over how to make groups in Active Directory and, how to apply them to file permissions. Next we go over how to install the file server software in Server Manager and finally how to set up a network share so users can access the files over the network.</b>
 
 
 <h2>Utilities Used</h2>
