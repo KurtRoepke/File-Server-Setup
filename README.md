@@ -41,7 +41,7 @@ To join users to a group right click the user and choose add to group .
 <img src="Images/5.png" height="70%" width="70%"  />
 
 
-Give the group a name and select ok.
+Enter the group name and add it to the list of permissions.
 <img src="Images/6.png" height="70%" width="70%"  />
 
 
