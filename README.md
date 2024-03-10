@@ -26,75 +26,75 @@ First in order to enhance security we will set up new groups to keep files hidde
 
 
 click on active directory users and computers.
-<img src="Images/2.png" height="75%" width="75%" />
+<img src="Images/2.png" height="70%" width="70%" />
 
 
 To make a new group right click the OU select new and choose group.
-<img src="Images/3.png" height="80%" width="80%" />
+<img src="Images/3.png" height="70%" width="70%"  />
 
 
  Give the group a name and click ok.
-<img src="Images/4.png" height="80%" width="80%" />
+<img src="Images/4.png" height="70%" width="70%" />
 
 
 To join users to a group right click the user and choose add to group .
-<img src="Images/5.png" height="80%" width="80%" />
+<img src="Images/5.png" height="70%" width="70%"  />
 
 
 Give the group a name and select ok.
-<img src="Images/6.png" height="80%" width="80%" />
+<img src="Images/6.png" height="70%" width="70%"  />
 
 
 Go to the file you want to share right click and choose properties.
-<img src="Images/7.png" height="80%" width="80%" />
+<img src="Images/7.png" height="70%" width="70%"  />
 
 
  Select Security choose edit remove the domain users from the list and add group A to the list now only group A will see that file.
-<img src="Images/8.png" height="80%" width="80%" />
+<img src="Images/8.png"  height="70%" width="70%"  />
 
  
  Next go back to the server manager choose add roles and features file and storage services.
-<img src="Images/9.png" height="80%" width="80%"  />
+<img src="Images/9.png" height="70%" width="70%"    />
 
 
  Choose file and iSCSI services and choose file server and server resource manager click next and install.
-<img src="Images/10.png" height="80%" width="80%" />
+<img src="Images/10.png" height="70%" width="70%"  />
 
 
  Next go to file and storage services and go to shares menu.
-<img src="Images/11.png" height="80%" width="80%" />
+<img src="Images/11.png"  height="70%" width="70%"  />
 
 
  Right click the share box in the center of the menu and choose new share .
-<img src="Images/12.png" height="80%" width="80%"/>
+<img src="Images/12.png" height="70%" width="70%"  />
 
 
  Choose smb quick and choose the drive or folder you want to share.
- <img src="Images/13.png" height="80%" width="80%" />
+ <img src="Images/13.png"  height="70%" width="70%"  />
 
 
  This is the path to the network share.
-<img src="Images/14.png" height="80%" width="80%" />
+<img src="Images/14.png"  height="70%" width="70%"  />
 
 
  Choose enable access-based enumeration to keep  share hiden from users that shouldnt see it choose next and create.
-<img src="Images/15.png" height="80%" width="80%" />
+<img src="Images/15.png"  height="70%" width="70%"  />
 
   
  Go to the network and sharing center in the control panel and choose advanced sharing settings.
-<img src="Images/16.png" height="80%" width="80%" />
+<img src="Images/16.png"  height="70%" width="70%"  />
 
 
  Make sure file and sharing is turned on on both the server and client machine. 
-<img src="Images/17.png" height="80%" width="80%" or trianglead />
+<img src="Images/17.png" height="70%" width="70%"  />
   
  
  Go to the client machine go to programs and features in the control panel.
-<img src="Images/18.png" height="80%" width="80%" />
+<img src="Images/18.png" height="70%" width="70%"  />
   
  
  Select turn windows features on or off go to SMB and choose smb 1.0 client and turn it on.
-<img src="Images/19.png" height="80%" width="80%" />
+<img src="Images/19.png"  height="70%" width="70%"  />
 
 
  Go back to the server and make sure its alsoinstalled on the server go to add roles and features and choose smb server.
