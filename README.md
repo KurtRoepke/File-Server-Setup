@@ -35,7 +35,7 @@ To make a new group right click the OU select new and choose group.
 
 
 
-   Give the group a name and click ok.
+ aaaaaaaaaaaaaaaaGive the group a name and click ok.
 <img src="Images/4.png" height="70%" width="70%" />
 
 
