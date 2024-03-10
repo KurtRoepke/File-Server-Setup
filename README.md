@@ -3,8 +3,7 @@
  
 
 <h2>Description</h2>
-<!--In this projectwe go over setting  up a file server to share files. we also set up permissons with group policy so certain department dont have access to documents they shouldnt see.<!-- Server manager, set permissios, make gpo's, <!--Server manager, gpo for permissions, gpo for map drives -->-->
-<br />-->
+<b>In this repository we go over how to make groups in Active Directory and, how to apply them to file permissions. Next we go over how to install the file server software in Server Manager and finally how to set up a network share.</b>
 
 
 <h2>Utilities Used</h2>
