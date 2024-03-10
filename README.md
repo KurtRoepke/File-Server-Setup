@@ -1,4 +1,4 @@
-<h1>Active Dicrectory Home Lab</h1>
+<h1>File server setup</h1>
 
  
 
