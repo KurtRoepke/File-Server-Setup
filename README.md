@@ -25,7 +25,7 @@ First in order to enhance security we will set up new groups to keep files hidde
 
 
 
-click on active directory users and computers.
+Next click on active directory users and computers.
 <img src="Images/2.png" height="70%" width="70%" />
 
 
@@ -86,22 +86,22 @@ Choose smb quick and choose the drive or folder you want to share.
 
 
 
-  This is the path to the network share we will type this to search for the share on the client computer later.
+ This is the path to the network share we will type this to search for the share on the client computer later.
 <img src="Images/14.png"  height="70%" width="70%"  />
 
 
 
-Choose enable access-based enumeration to keep  share hiden from users that shouldnt see it choose next and create.
+Choose enable access-based enumeration to keep share hidden from users that shouldn't see it choose next and, create.
 <img src="Images/15.png"  height="70%" width="70%"  />
 
   
 
-Go to the network and sharing center in the control panel and choose advanced sharing settings.
+Go to the network and sharing center in the control panel and, choose advanced sharing settings.
 <img src="Images/16.png"  height="70%" width="70%"  />
 
 
 
-Make sure file and sharing is turned on on both the server and client machine. 
+Make sure file and sharing is turned on for both the server and the client machine. 
 <img src="Images/17.png" height="70%" width="70%"  />
   
  
@@ -121,7 +121,7 @@ Go back to the server and make sure its alsoinstalled on the server go to add ro
 
 
 
-Log  on to the user with permissions and go to file manager go to this pc and type in the folder path.
+Log  n to the user with permissions and go to file manager go to this pc and type in the folder path.
 <img src="Images/21.png" height="70%" width="70%" />
 
  
@@ -131,6 +131,6 @@ This user has permissions so they can see the file.
  
 
 
-log on with the user without permissions they can see file b but file a is not visable because they dont have permissions.
+log on with the user without permissions they can see file b but, file a is not visible because they dont have permissions.
 <img src="Images/23.png" height="70%" width="70%"  />
 
