@@ -3,16 +3,15 @@
  
 
 <h2>Description</h2>
-In this projectwe go over setting  up a file server to share files. we also set up permissons with group policy so certain department dont have access to documents they shouldnt see.<!-- Server manager, set permissios, make gpo's, <!--Server manager, gpo for permissions, gpo for map drives -->-->
-<br />
+<!--In this projectwe go over setting  up a file server to share files. we also set up permissons with group policy so certain department dont have access to documents they shouldnt see.<!-- Server manager, set permissios, make gpo's, <!--Server manager, gpo for permissions, gpo for map drives -->-->
+<br />-->
 
 
 <h2>Utilities Used</h2>
 
 - <b>File explorer</b> 
 - <b>Server manager</b> 
-- <b>Cmd</b>
-- <b>Group policy </b>
+- <b>Active Directory </b>
 
 <h2>Environments Used </h2>
 
