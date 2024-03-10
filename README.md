@@ -98,17 +98,17 @@ Go to the file you want to share right click and choose properties.
 
 
  Go back to the server and make sure its alsoinstalled on the server go to add roles and features and choose smb server.
-<img src="Images/20.png" height="80%" width="80%" />
+<img src="Images/20.png" height="70%" width="70%" />
 
 
  Log  on to the user with permissions and go to file manager go to this pc and type in the folder path.
-<img src="Images/21.png" height="80%" width="80%" />
+<img src="Images/21.png" height="70%" width="70%" />
 
  
  This user has permissions so they can see the file.
-<img src="Images/22.png" height="80%" width="80%" />
+<img src="Images/22.png" height="70%" width="70%" />
  
 
  log on with the user without permissions they can see file b but file a is not visable because they dont have permissions.
-<img src="Images/23.png" height="80%" width="80%"  />
+<img src="Images/23.png" height="70%" width="70%"  />
 
