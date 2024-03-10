@@ -26,7 +26,7 @@ First in order to enhance security we will set up new groups to keep files hidde
 
 
 click on active directory users and computers.
-<img src="Images/2.png" height="80%" width="80%" />
+<img src="Images/2.png" height="75%" width="75%" />
 
 
 To make a new group right click the OU select new and choose group.
