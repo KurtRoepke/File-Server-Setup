@@ -23,7 +23,7 @@ In this projectwe go over setting  up a file server to share files. we also set 
 <h2>Program walk-through:</h2>
 
 First in order to enhance security we will set up new groups to keep files hidden from certain users go to server manager tools.
-<img src="images/1.png" height="80%" width="80%"/>
+<img src="Images/1.png" height="80%" width="80%"/>
 
 
 click on active directory users and computers.
