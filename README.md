@@ -19,7 +19,7 @@
 - <b>Windows Server 2022</b> (21H2)
 
 <h2>Program walk-through:</h2>
-
+<p align="center">
 First in order to enhance security we will set up new groups to keep files hidden from certain users go to server manager tools.
 <img src="Images/1.png" height="70%" width="70%"/>
 
@@ -134,3 +134,4 @@ This user has permissions so they can see the file.
 log on with the user without permissions they can see file b but, file a is not visible because they dont have permissions.
 <img src="Images/23.png" height="70%" width="70%"  />
 
+</p>
